@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Sanmati-Enterprises/static/css/main.52277f33.chunk.css",
+    "main.js": "/Sanmati-Enterprises/static/js/main.0ff8c649.chunk.js",
+    "main.js.map": "/Sanmati-Enterprises/static/js/main.0ff8c649.chunk.js.map",
+    "runtime-main.js": "/Sanmati-Enterprises/static/js/runtime-main.777f8dd6.js",
+    "runtime-main.js.map": "/Sanmati-Enterprises/static/js/runtime-main.777f8dd6.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/Sanmati-Enterprises/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.ad951f2b.chunk.js": "/Sanmati-Enterprises/static/js/2.ad951f2b.chunk.js",
+    "static/js/2.ad951f2b.chunk.js.map": "/Sanmati-Enterprises/static/js/2.ad951f2b.chunk.js.map",
+    "static/js/3.5da789f6.chunk.js": "/Sanmati-Enterprises/static/js/3.5da789f6.chunk.js",
+    "static/js/3.5da789f6.chunk.js.map": "/Sanmati-Enterprises/static/js/3.5da789f6.chunk.js.map",
+    "index.html": "/Sanmati-Enterprises/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/Sanmati-Enterprises/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.52277f33.chunk.css.map": "/Sanmati-Enterprises/static/css/main.52277f33.chunk.css.map",
+    "static/js/2.ad951f2b.chunk.js.LICENSE.txt": "/Sanmati-Enterprises/static/js/2.ad951f2b.chunk.js.LICENSE.txt",
+    "static/media/first.aad669b9.JPG": "/Sanmati-Enterprises/static/media/first.aad669b9.JPG",
+    "static/media/home.acf0c231.jpg": "/Sanmati-Enterprises/static/media/home.acf0c231.jpg",
+    "static/media/second.b93bf4c7.JPG": "/Sanmati-Enterprises/static/media/second.b93bf4c7.JPG",
+    "static/media/third.b0cab5a3.jpg": "/Sanmati-Enterprises/static/media/third.b0cab5a3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.777f8dd6.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.ad951f2b.chunk.js",
+    "static/css/main.52277f33.chunk.css",
+    "static/js/main.0ff8c649.chunk.js"
+  ]
+}
